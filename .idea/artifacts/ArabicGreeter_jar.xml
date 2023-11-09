@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ArabicGreeter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ArabicGreeter_jar</output-path>
+    <root id="archive" name="ArabicGreeter.jar">
+      <element id="module-output" name="ArabicGreeter" />
+    </root>
+  </artifact>
+</component>
